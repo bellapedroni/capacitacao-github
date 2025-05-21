@@ -1,11 +1,11 @@
 ---
-role: Seu Nome 
+role: Isabella Pedroni 
 weight: 18
-email: "seuemail@email.com"
+email: "isabellapedroni2409@gmail.com"
 interests:
--
--
--
+- Melhoramento Genético
+- Fenotipagem Digital
+- Biotecnologia Vegetal
 -
 organizations:
 - name: UFSC
@@ -18,19 +18,19 @@ social:
   
 - icon: lattes
   icon_pack: ai
-  link: seu lattes
+  link: http://lattes.cnpq.br/5199973383188208
   
 - icon: researchgate
   icon_pack: ai
-  link: seu researchgate # se você não tem exclua isso tudo
+  link: https://www.researchgate.net/profile/Isabella-Pedroni
   
 - icon: github
   icon_pack: fab
-  link: seu github
+  link: https://github.com/bellapedroni
   
 - icon: linkedin-in
   icon_pack: fab
-  link: seu linkedin # se você não tem exclua isso tudo
+  link: https://www.linkedin.com/in/isabella-ramos-pedroni-paulo-540280212/
   
 user_groups:
 - Estudantes de Graduação
